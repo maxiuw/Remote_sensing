@@ -1,0 +1,2639 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-08-27T02:37:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4245318",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Sangallo",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4665536,
+            41.8964477
+          ],
+          [
+            12.466416,
+            41.896553
+          ],
+          [
+            12.4663618,
+            41.8965935
+          ],
+          [
+            12.4662048,
+            41.8967167
+          ],
+          [
+            12.4660654,
+            41.8968361
+          ],
+          [
+            12.4659786,
+            41.8969302
+          ]
+        ]
+      },
+      "id": "way/4245318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4951286",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere degli Anguillara",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4744767,
+            41.8903415
+          ],
+          [
+            12.4745612,
+            41.890322
+          ],
+          [
+            12.4747444,
+            41.8902792
+          ]
+        ]
+      },
+      "id": "way/4951286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/11490990",
+        "cycleway:left": "track",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Aventino",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4764057,
+            41.8833382
+          ],
+          [
+            12.4777572,
+            41.8844765
+          ],
+          [
+            12.4786857,
+            41.8852149
+          ],
+          [
+            12.479016,
+            41.8855063
+          ],
+          [
+            12.4792694,
+            41.8857929
+          ],
+          [
+            12.4797551,
+            41.8863447
+          ]
+        ]
+      },
+      "id": "way/11490990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/19735142",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere De' Cenci",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4746408,
+            41.8917601
+          ],
+          [
+            12.4745809,
+            41.8917549
+          ]
+        ]
+      },
+      "id": "way/19735142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/19735205",
+        "highway": "primary",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Fiorentini",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4642535,
+            41.8997937
+          ],
+          [
+            12.4642819,
+            41.8999772
+          ],
+          [
+            12.4643158,
+            41.9000993
+          ],
+          [
+            12.464368,
+            41.9002187
+          ],
+          [
+            12.4644181,
+            41.9002959
+          ],
+          [
+            12.4644443,
+            41.9003362
+          ],
+          [
+            12.4645292,
+            41.9004365
+          ],
+          [
+            12.4645732,
+            41.9004884
+          ],
+          [
+            12.4646506,
+            41.9005508
+          ],
+          [
+            12.4647008,
+            41.9005895
+          ],
+          [
+            12.464757,
+            41.9006354
+          ],
+          [
+            12.464796,
+            41.9006658
+          ],
+          [
+            12.4648844,
+            41.9007319
+          ]
+        ]
+      },
+      "id": "way/19735205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/19754726",
+        "alt_name": "Ponte Principe Amedeo Savoia Aosta",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Ponte Principe Amedeo",
+        "oneway": "yes",
+        "short_name": "Ponte Pasa",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4625957,
+            41.8996836
+          ],
+          [
+            12.4626999,
+            41.899715
+          ],
+          [
+            12.4627381,
+            41.8997225
+          ],
+          [
+            12.4627701,
+            41.8997252
+          ],
+          [
+            12.4627813,
+            41.8997261
+          ]
+        ]
+      },
+      "id": "way/19754726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22880282",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Pierleoni",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4801859,
+            41.8895083
+          ],
+          [
+            12.4800772,
+            41.8897151
+          ],
+          [
+            12.4799127,
+            41.890005
+          ],
+          [
+            12.4797597,
+            41.8902487
+          ],
+          [
+            12.4795798,
+            41.8904931
+          ],
+          [
+            12.47941,
+            41.8906626
+          ]
+        ]
+      },
+      "id": "way/22880282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22880293",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere De' Cenci",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4785456,
+            41.8913436
+          ],
+          [
+            12.478438,
+            41.8914075
+          ],
+          [
+            12.4782854,
+            41.8914913
+          ],
+          [
+            12.4781443,
+            41.8915589
+          ],
+          [
+            12.4779415,
+            41.8916448
+          ],
+          [
+            12.4777318,
+            41.8917139
+          ],
+          [
+            12.4774828,
+            41.8917755
+          ],
+          [
+            12.4773101,
+            41.8918081
+          ],
+          [
+            12.4770858,
+            41.8918467
+          ],
+          [
+            12.4770424,
+            41.8918512
+          ],
+          [
+            12.4769496,
+            41.8918607
+          ],
+          [
+            12.4768842,
+            41.8918659
+          ],
+          [
+            12.4767757,
+            41.8918745
+          ],
+          [
+            12.4764901,
+            41.8918777
+          ],
+          [
+            12.4763664,
+            41.891876
+          ],
+          [
+            12.4755279,
+            41.8918221
+          ],
+          [
+            12.4750833,
+            41.8917902
+          ],
+          [
+            12.4747862,
+            41.8917697
+          ],
+          [
+            12.4746408,
+            41.8917601
+          ]
+        ]
+      },
+      "id": "way/22880293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22951403",
+        "cycleway:right": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Ripa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4775826,
+            41.889422
+          ],
+          [
+            12.4777212,
+            41.8893322
+          ],
+          [
+            12.4778532,
+            41.889267
+          ],
+          [
+            12.4779988,
+            41.8891795
+          ]
+        ]
+      },
+      "id": "way/22951403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22951417",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere degli Alberteschi",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4770915,
+            41.8895629
+          ],
+          [
+            12.477212,
+            41.8895317
+          ]
+        ]
+      },
+      "id": "way/22951417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22951780",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Gianicolense",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4626711,
+            41.8995699
+          ],
+          [
+            12.4627129,
+            41.8992948
+          ],
+          [
+            12.4627904,
+            41.8990556
+          ],
+          [
+            12.462887,
+            41.8988152
+          ],
+          [
+            12.4629438,
+            41.8987305
+          ],
+          [
+            12.46318,
+            41.8983783
+          ]
+        ]
+      },
+      "id": "way/22951780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22956135",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza di Porta Portese",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4747298,
+            41.8837014
+          ],
+          [
+            12.4747183,
+            41.8836755
+          ],
+          [
+            12.4747218,
+            41.883627
+          ],
+          [
+            12.4747519,
+            41.8835763
+          ]
+        ]
+      },
+      "id": "way/22956135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24694985",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "nat_name": "Ponte Aventino",
+        "oneway": "yes",
+        "railway": "tram",
+        "source:maxspeed": "IT:urban",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4755763,
+            41.8829422
+          ],
+          [
+            12.4756401,
+            41.8828967
+          ],
+          [
+            12.4757262,
+            41.8828352
+          ]
+        ]
+      },
+      "id": "way/24694985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24694986",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Ponte Sublicio",
+        "nat_name": "Ponte Aventino",
+        "oneway": "yes",
+        "railway": "tram",
+        "source:maxspeed": "IT:urban",
+        "start_date": "1918",
+        "surface": "cobblestone",
+        "voltage": "600",
+        "wikidata": "Q1466700",
+        "wikipedia": "it:Ponte Sublicio"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4747519,
+            41.8835763
+          ],
+          [
+            12.4755763,
+            41.8829422
+          ]
+        ]
+      },
+      "id": "way/24694986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25752498",
+        "alt_name": "Ponte Principe Amedeo Savoia Aosta",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Ponte Principe Amedeo",
+        "oneway": "yes",
+        "short_name": "Ponte Pasa",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4641348,
+            41.8997832
+          ],
+          [
+            12.4642535,
+            41.8997937
+          ]
+        ]
+      },
+      "id": "way/25752498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25752503",
+        "alt_name": "Ponte Principe Amedeo Savoia Aosta",
+        "bridge": "yes",
+        "highway": "primary",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Ponte Principe Amedeo",
+        "oneway": "yes",
+        "short_name": "Ponte Pasa",
+        "source:maxspeed": "IT:urban",
+        "start_date": "1942",
+        "surface": "asphalt",
+        "wikidata": "Q3908014",
+        "wikipedia": "it:Ponte Principe Amedeo Savoia Aosta"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4627813,
+            41.8997261
+          ],
+          [
+            12.4640834,
+            41.8997809
+          ],
+          [
+            12.4641348,
+            41.8997832
+          ]
+        ]
+      },
+      "id": "way/25752503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26172815",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza dell'Emporio",
+        "oneway": "yes",
+        "railway": "tram",
+        "source:maxspeed": "IT:urban",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4757262,
+            41.8828352
+          ],
+          [
+            12.4758004,
+            41.882782
+          ],
+          [
+            12.4762442,
+            41.8824956
+          ]
+        ]
+      },
+      "id": "way/26172815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27806583",
+        "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Ripa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4783069,
+            41.8867831
+          ],
+          [
+            12.478137,
+            41.8865623
+          ],
+          [
+            12.4779425,
+            41.886324
+          ],
+          [
+            12.4776921,
+            41.8860673
+          ]
+        ]
+      },
+      "id": "way/27806583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27806586",
+        "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Ripa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4783069,
+            41.8867831
+          ],
+          [
+            12.4781561,
+            41.8866571
+          ],
+          [
+            12.477895,
+            41.8864079
+          ],
+          [
+            12.4775921,
+            41.8861068
+          ]
+        ]
+      },
+      "id": "way/27806586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28213659",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere della Farnesina",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.465428,
+            41.8956501
+          ],
+          [
+            12.4654794,
+            41.8956043
+          ],
+          [
+            12.4655113,
+            41.8955759
+          ],
+          [
+            12.4657943,
+            41.8953853
+          ],
+          [
+            12.4665908,
+            41.8948046
+          ]
+        ]
+      },
+      "id": "way/28213659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49074919",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Pierleoni",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.47941,
+            41.8906626
+          ],
+          [
+            12.4792937,
+            41.8907615
+          ],
+          [
+            12.4792433,
+            41.8908094
+          ],
+          [
+            12.4791152,
+            41.8909293
+          ],
+          [
+            12.4789745,
+            41.8910542
+          ],
+          [
+            12.4788706,
+            41.8911287
+          ],
+          [
+            12.4787868,
+            41.8911888
+          ]
+        ]
+      },
+      "id": "way/49074919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52582204",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Ripa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4784791,
+            41.8888036
+          ],
+          [
+            12.4785097,
+            41.8887607
+          ],
+          [
+            12.4786054,
+            41.8885992
+          ],
+          [
+            12.4787571,
+            41.8882736
+          ],
+          [
+            12.4788043,
+            41.8881097
+          ],
+          [
+            12.4788257,
+            41.8879185
+          ],
+          [
+            12.478823,
+            41.8878282
+          ]
+        ]
+      },
+      "id": "way/52582204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97165935",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Tebaldi",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "wikidata": "Q3840746",
+        "wikipedia": "it:Lungotevere dei Tebaldi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4712895,
+            41.892722
+          ],
+          [
+            12.4711991,
+            41.8927914
+          ],
+          [
+            12.471029,
+            41.8929249
+          ],
+          [
+            12.4708636,
+            41.8931028
+          ],
+          [
+            12.4703754,
+            41.893438
+          ],
+          [
+            12.4694933,
+            41.8941017
+          ],
+          [
+            12.4690576,
+            41.8944384
+          ],
+          [
+            12.4688675,
+            41.8946014
+          ],
+          [
+            12.4686602,
+            41.8947791
+          ],
+          [
+            12.4679448,
+            41.8953354
+          ],
+          [
+            12.4675876,
+            41.895621
+          ],
+          [
+            12.4672177,
+            41.8959167
+          ],
+          [
+            12.4669035,
+            41.8961654
+          ],
+          [
+            12.4668553,
+            41.8962035
+          ],
+          [
+            12.4667549,
+            41.8962857
+          ],
+          [
+            12.4666503,
+            41.8963714
+          ],
+          [
+            12.4665536,
+            41.8964477
+          ]
+        ]
+      },
+      "id": "way/97165935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97165960",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza dell'Emporio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4766112,
+            41.8823737
+          ],
+          [
+            12.4765559,
+            41.8824319
+          ],
+          [
+            12.4765034,
+            41.8824856
+          ]
+        ]
+      },
+      "id": "way/97165960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/97165965",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Via Marmorata",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4765111,
+            41.8823002
+          ],
+          [
+            12.4765901,
+            41.8821914
+          ],
+          [
+            12.4768242,
+            41.8818598
+          ],
+          [
+            12.476881,
+            41.8817805
+          ]
+        ]
+      },
+      "id": "way/97165965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121395873",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza dell'Emporio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4765034,
+            41.8824856
+          ],
+          [
+            12.4764037,
+            41.882671
+          ],
+          [
+            12.4763614,
+            41.8827949
+          ],
+          [
+            12.4763491,
+            41.8829702
+          ],
+          [
+            12.476365,
+            41.88314
+          ],
+          [
+            12.476376,
+            41.8832266
+          ],
+          [
+            12.4764057,
+            41.8833382
+          ]
+        ]
+      },
+      "id": "way/121395873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121396713",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza dell'Emporio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4763957,
+            41.8823859
+          ],
+          [
+            12.4764493,
+            41.8823521
+          ],
+          [
+            12.4765111,
+            41.8823002
+          ]
+        ]
+      },
+      "id": "way/121396713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121401075",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Gianicolense",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.46318,
+            41.8983783
+          ],
+          [
+            12.463258,
+            41.8982611
+          ]
+        ]
+      },
+      "id": "way/121401075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121897310",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere in Sassia",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4626811,
+            41.8999065
+          ],
+          [
+            12.4626316,
+            41.8998612
+          ],
+          [
+            12.462576,
+            41.8998236
+          ],
+          [
+            12.4625173,
+            41.8997981
+          ],
+          [
+            12.4624525,
+            41.8997794
+          ]
+        ]
+      },
+      "id": "way/121897310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121906063",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza della Rovere",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4625369,
+            41.8994868
+          ],
+          [
+            12.4625479,
+            41.8994498
+          ],
+          [
+            12.4626621,
+            41.8990641
+          ],
+          [
+            12.4628071,
+            41.8987928
+          ],
+          [
+            12.4629411,
+            41.8986181
+          ]
+        ]
+      },
+      "id": "way/121906063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121996216",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Aventino",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4804028,
+            41.8879523
+          ],
+          [
+            12.480432,
+            41.8882659
+          ]
+        ]
+      },
+      "id": "way/121996216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121996219",
+        "cycleway:left": "track",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Aventino",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4797551,
+            41.8863447
+          ],
+          [
+            12.4799259,
+            41.8866014
+          ],
+          [
+            12.4800965,
+            41.8869084
+          ],
+          [
+            12.480182,
+            41.8871174
+          ],
+          [
+            12.4802227,
+            41.8872234
+          ],
+          [
+            12.480262,
+            41.8873314
+          ],
+          [
+            12.4802841,
+            41.8873942
+          ],
+          [
+            12.4803048,
+            41.887459
+          ],
+          [
+            12.4803421,
+            41.8875916
+          ],
+          [
+            12.4803713,
+            41.8877526
+          ]
+        ]
+      },
+      "id": "way/121996219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121996221",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Aventino",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.480432,
+            41.8882659
+          ],
+          [
+            12.4804447,
+            41.8884696
+          ],
+          [
+            12.4804499,
+            41.8886438
+          ],
+          [
+            12.4804386,
+            41.8887262
+          ],
+          [
+            12.4803937,
+            41.8889911
+          ],
+          [
+            12.4803631,
+            41.8891292
+          ],
+          [
+            12.4803285,
+            41.889256
+          ],
+          [
+            12.4801859,
+            41.8895083
+          ]
+        ]
+      },
+      "id": "way/121996221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/121996222",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Porto di Ripa Grande",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4754781,
+            41.8843221
+          ],
+          [
+            12.4748071,
+            41.8837742
+          ],
+          [
+            12.4747666,
+            41.8837399
+          ],
+          [
+            12.4747298,
+            41.8837014
+          ]
+        ]
+      },
+      "id": "way/121996222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/122229669",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Pierleoni",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4787868,
+            41.8911888
+          ],
+          [
+            12.4787244,
+            41.8912277
+          ],
+          [
+            12.4786676,
+            41.891266
+          ],
+          [
+            12.4786161,
+            41.8913007
+          ],
+          [
+            12.4785456,
+            41.8913436
+          ]
+        ]
+      },
+      "id": "way/122229669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/124679152",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Via Marmorata",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4790678,
+            41.8788969
+          ],
+          [
+            12.4784465,
+            41.8797737
+          ],
+          [
+            12.4784237,
+            41.8798059
+          ],
+          [
+            12.4780811,
+            41.8802894
+          ],
+          [
+            12.4777517,
+            41.880781
+          ],
+          [
+            12.4770076,
+            41.8818318
+          ]
+        ]
+      },
+      "id": "way/124679152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/125742178",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Via Marmorata",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.476881,
+            41.8817805
+          ],
+          [
+            12.4772505,
+            41.8812315
+          ],
+          [
+            12.4775468,
+            41.8808089
+          ],
+          [
+            12.4776027,
+            41.8807303
+          ],
+          [
+            12.477944,
+            41.8802401
+          ],
+          [
+            12.4782454,
+            41.8797977
+          ],
+          [
+            12.4782778,
+            41.8797502
+          ],
+          [
+            12.4783179,
+            41.8796913
+          ],
+          [
+            12.4786902,
+            41.8791564
+          ]
+        ]
+      },
+      "id": "way/125742178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665304",
+        "cycleway:right": "no",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Sangallo",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4645169,
+            41.8989928
+          ],
+          [
+            12.4644713,
+            41.8990533
+          ]
+        ]
+      },
+      "id": "way/128665304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128665305",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Sangallo",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4644713,
+            41.8990533
+          ],
+          [
+            12.4644031,
+            41.8991555
+          ],
+          [
+            12.4643561,
+            41.8992453
+          ],
+          [
+            12.4643344,
+            41.8992948
+          ],
+          [
+            12.4643112,
+            41.8993486
+          ],
+          [
+            12.4642907,
+            41.8994123
+          ],
+          [
+            12.464267,
+            41.8995428
+          ],
+          [
+            12.4642556,
+            41.899679
+          ],
+          [
+            12.4642541,
+            41.8997146
+          ],
+          [
+            12.4642535,
+            41.8997937
+          ]
+        ]
+      },
+      "id": "way/128665305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129170653",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Raffaello Sanzio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4743065,
+            41.8903701
+          ],
+          [
+            12.4744128,
+            41.8903567
+          ],
+          [
+            12.4744767,
+            41.8903415
+          ]
+        ]
+      },
+      "id": "way/129170653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129414574",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Ripa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.478823,
+            41.8878282
+          ],
+          [
+            12.4787344,
+            41.8875183
+          ],
+          [
+            12.4786127,
+            41.8872564
+          ],
+          [
+            12.4783069,
+            41.8867831
+          ]
+        ]
+      },
+      "id": "way/129414574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/140435810",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Gianicolense",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.463258,
+            41.8982611
+          ],
+          [
+            12.4648485,
+            41.8962594
+          ],
+          [
+            12.4650955,
+            41.8959689
+          ],
+          [
+            12.4653463,
+            41.8957284
+          ],
+          [
+            12.465428,
+            41.8956501
+          ]
+        ]
+      },
+      "id": "way/140435810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/140435812",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza Trilussa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4700704,
+            41.8920509
+          ],
+          [
+            12.4701845,
+            41.8919622
+          ],
+          [
+            12.4702675,
+            41.8918964
+          ]
+        ]
+      },
+      "id": "way/140435812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168441377",
+        "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Porto di Ripa Grande",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4776921,
+            41.8860673
+          ],
+          [
+            12.47763,
+            41.8860075
+          ],
+          [
+            12.4775769,
+            41.8859564
+          ],
+          [
+            12.4772109,
+            41.8856711
+          ],
+          [
+            12.4766621,
+            41.8852432
+          ],
+          [
+            12.4764161,
+            41.8850962
+          ]
+        ]
+      },
+      "id": "way/168441377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168441381",
+        "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Porto di Ripa Grande",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4775921,
+            41.8861068
+          ],
+          [
+            12.4775426,
+            41.8860603
+          ],
+          [
+            12.4774056,
+            41.8859319
+          ],
+          [
+            12.4771506,
+            41.8857112
+          ],
+          [
+            12.4767608,
+            41.8853961
+          ],
+          [
+            12.4764161,
+            41.8850962
+          ]
+        ]
+      },
+      "id": "way/168441381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187771647",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Porto di Ripa Grande",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4764161,
+            41.8850962
+          ],
+          [
+            12.4761495,
+            41.8848811
+          ],
+          [
+            12.4759244,
+            41.8846996
+          ],
+          [
+            12.4754781,
+            41.8843221
+          ]
+        ]
+      },
+      "id": "way/187771647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187771648",
+        "highway": "primary",
+        "lanes": "2",
+        "layer": "-1",
+        "lit": "24/7",
+        "maxspeed": "50",
+        "name": "Sottovia Lungotevere in Sassia",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4627743,
+            41.9002176
+          ],
+          [
+            12.4627137,
+            41.8998681
+          ],
+          [
+            12.4626711,
+            41.8995699
+          ]
+        ]
+      },
+      "id": "way/187771648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187776460",
+        "cycleway:right": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Sangallo",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4659786,
+            41.8969302
+          ],
+          [
+            12.4657259,
+            41.8972809
+          ],
+          [
+            12.4657128,
+            41.8972991
+          ],
+          [
+            12.4655102,
+            41.8975748
+          ],
+          [
+            12.4654433,
+            41.8976659
+          ],
+          [
+            12.465418,
+            41.897701
+          ]
+        ]
+      },
+      "id": "way/187776460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190598700",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Raffaello Sanzio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4718853,
+            41.8908793
+          ],
+          [
+            12.4719467,
+            41.890849
+          ],
+          [
+            12.4722313,
+            41.890753
+          ],
+          [
+            12.4725206,
+            41.8906735
+          ],
+          [
+            12.4730999,
+            41.8905517
+          ],
+          [
+            12.4740525,
+            41.8904137
+          ],
+          [
+            12.4743065,
+            41.8903701
+          ]
+        ]
+      },
+      "id": "way/190598700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190598702",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Ripa",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4779988,
+            41.8891795
+          ],
+          [
+            12.4780818,
+            41.8891258
+          ],
+          [
+            12.4781669,
+            41.8890707
+          ],
+          [
+            12.4784791,
+            41.8888036
+          ]
+        ]
+      },
+      "id": "way/190598702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190598703",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere degli Anguillara",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4747444,
+            41.8902792
+          ],
+          [
+            12.4753718,
+            41.8901138
+          ],
+          [
+            12.4758333,
+            41.8899679
+          ],
+          [
+            12.4766414,
+            41.8897155
+          ]
+        ]
+      },
+      "id": "way/190598703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190598707",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza della Rovere",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4629411,
+            41.8986181
+          ],
+          [
+            12.46318,
+            41.8983783
+          ]
+        ]
+      },
+      "id": "way/190598707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190639859",
+        "electrified": "contact_line",
+        "frequency": "0",
+        "gauge": "1435",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Piazza dell'Emporio",
+        "oneway": "yes",
+        "railway": "tram",
+        "source:maxspeed": "IT:urban",
+        "voltage": "600"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4762442,
+            41.8824956
+          ],
+          [
+            12.4763141,
+            41.8824416
+          ],
+          [
+            12.4763957,
+            41.8823859
+          ]
+        ]
+      },
+      "id": "way/190639859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190816607",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Vallati",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4744781,
+            41.8917462
+          ],
+          [
+            12.4742535,
+            41.8917305
+          ],
+          [
+            12.4740305,
+            41.8917206
+          ],
+          [
+            12.473894,
+            41.8917234
+          ],
+          [
+            12.4736676,
+            41.8917306
+          ],
+          [
+            12.4734746,
+            41.8917418
+          ],
+          [
+            12.4732514,
+            41.8917654
+          ],
+          [
+            12.4731575,
+            41.8917778
+          ],
+          [
+            12.47294,
+            41.8918286
+          ],
+          [
+            12.472751,
+            41.8918845
+          ],
+          [
+            12.4725846,
+            41.8919457
+          ],
+          [
+            12.4721874,
+            41.8921224
+          ],
+          [
+            12.4719668,
+            41.8922344
+          ],
+          [
+            12.4713899,
+            41.8926519
+          ],
+          [
+            12.4713541,
+            41.892676
+          ],
+          [
+            12.4712895,
+            41.892722
+          ]
+        ]
+      },
+      "id": "way/190816607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190816608",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere dei Vallati",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4745809,
+            41.8917549
+          ],
+          [
+            12.4744781,
+            41.8917462
+          ]
+        ]
+      },
+      "id": "way/190816608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/191159412",
+        "cycleway:right": "no",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:motor_vehicle": "2",
+        "lanes:psv:forward": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "motor_vehicle:lanes:forward": "yes|yes|no",
+        "name": "Lungotevere dei Sangallo",
+        "oneway": "yes",
+        "psv:lanes:forward": "no|no|yes",
+        "sidewalk": "both",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.465418,
+            41.897701
+          ],
+          [
+            12.4651449,
+            41.8980804
+          ],
+          [
+            12.4647979,
+            41.8985889
+          ],
+          [
+            12.4645169,
+            41.8989928
+          ]
+        ]
+      },
+      "id": "way/191159412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200237034",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Via Marmorata",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4767135,
+            41.882241
+          ],
+          [
+            12.4766112,
+            41.8823737
+          ]
+        ]
+      },
+      "id": "way/200237034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200237037",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Via Marmorata",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4770076,
+            41.8818318
+          ],
+          [
+            12.476943,
+            41.8819257
+          ],
+          [
+            12.4767135,
+            41.882241
+          ]
+        ]
+      },
+      "id": "way/200237037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200237734",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Via Marmorata",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4786902,
+            41.8791564
+          ],
+          [
+            12.4789834,
+            41.8787441
+          ],
+          [
+            12.4790503,
+            41.87865
+          ]
+        ]
+      },
+      "id": "way/200237734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202304079",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere degli Alberteschi",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.477212,
+            41.8895317
+          ],
+          [
+            12.4775065,
+            41.8894468
+          ],
+          [
+            12.4775826,
+            41.889422
+          ]
+        ]
+      },
+      "id": "way/202304079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202304080",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere degli Anguillara",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4766414,
+            41.8897155
+          ],
+          [
+            12.4770359,
+            41.8895818
+          ],
+          [
+            12.4770915,
+            41.8895629
+          ]
+        ]
+      },
+      "id": "way/202304080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311184548",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere della Farnesina",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4665908,
+            41.8948046
+          ],
+          [
+            12.4667642,
+            41.8946695
+          ],
+          [
+            12.4678422,
+            41.89383
+          ],
+          [
+            12.4700704,
+            41.8920509
+          ]
+        ]
+      },
+      "id": "way/311184548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/815965154",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Aventino",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4803713,
+            41.8877526
+          ],
+          [
+            12.4804028,
+            41.8879523
+          ]
+        ]
+      },
+      "id": "way/815965154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835565670",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Raffaello Sanzio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4702675,
+            41.8918964
+          ],
+          [
+            12.4703343,
+            41.891846
+          ]
+        ]
+      },
+      "id": "way/835565670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835565671",
+        "highway": "primary",
+        "is_in:city": "Roma",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Lungotevere Raffaello Sanzio",
+        "oneway": "yes",
+        "source:maxspeed": "IT:urban"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12.4703343,
+            41.891846
+          ],
+          [
+            12.470763,
+            41.8915225
+          ],
+          [
+            12.4714015,
+            41.8911124
+          ],
+          [
+            12.4718853,
+            41.8908793
+          ]
+        ]
+      },
+      "id": "way/835565671"
+    }
+  ]
+}

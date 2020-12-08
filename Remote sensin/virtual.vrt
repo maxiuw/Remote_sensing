@@ -1,0 +1,48 @@
+<VRTDataset rasterXSize="16212" rasterYSize="16212">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["NAD83",DATUM["North_American_Datum_1983",SPHEROID["GRS 1980",6378137,298.257222101,AUTHORITY["EPSG","7019"]],TOWGS84[0,0,0,0,0,0,0],AUTHORITY["EPSG","6269"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4269"]]</SRS>
+  <GeoTransform> -8.5000185185185217e+01,  3.0864197530864937e-05,  0.0000000000000000e+00,  3.9750185185185188e+01,  0.0000000000000000e+00, -3.0864197530864056e-05</GeoTransform>
+  <VRTRasterBand dataType="Float32" band="1">
+    <NoDataValue>-3.4028234663852886e+38</NoDataValue>
+    <ComplexSource resampling="cubic">
+      <SourceFilename relativeToVRT="0">/vsizip//home/maciek/nid/ned19_n39x50_w084x75_oh_southwest_2006.zip/ned19_n39x50_w084x75_oh_southwest_2006.img</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8112" RasterYSize="8112" DataType="Float32" BlockXSize="64" BlockYSize="64" />
+      <SrcRect xOff="0" yOff="0" xSize="8112" ySize="8112" />
+      <DstRect xOff="8100" yOff="8100" xSize="8112" ySize="8112" />
+      <NODATA>-3.4028234663852886e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="2">
+    <NoDataValue>-3.4028234663852886e+38</NoDataValue>
+    <ComplexSource resampling="cubic">
+      <SourceFilename relativeToVRT="0">/vsizip//home/maciek/nid/ned19_n39x50_w085x00_oh_southwest_2006.zip/ned19_n39x50_w085x00_oh_southwest_2006.img</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8112" RasterYSize="8112" DataType="Float32" BlockXSize="64" BlockYSize="64" />
+      <SrcRect xOff="0" yOff="0" xSize="8112" ySize="8112" />
+      <DstRect xOff="0" yOff="8100" xSize="8112" ySize="8112" />
+      <NODATA>-3.4028234663852886e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="3">
+    <NoDataValue>-3.4028234663852886e+38</NoDataValue>
+    <ComplexSource resampling="cubic">
+      <SourceFilename relativeToVRT="0">/vsizip//home/maciek/nid/ned19_n39x75_w084x75_oh_southwest_2006.zip/ned19_n39x75_w084x75_oh_southwest_2006.img</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8112" RasterYSize="8112" DataType="Float32" BlockXSize="64" BlockYSize="64" />
+      <SrcRect xOff="0" yOff="0" xSize="8112" ySize="8112" />
+      <DstRect xOff="8100" yOff="0" xSize="8112" ySize="8112" />
+      <NODATA>-3.4028234663852886e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+  <VRTRasterBand dataType="Float32" band="4">
+    <NoDataValue>-3.4028234663852886e+38</NoDataValue>
+    <ComplexSource resampling="cubic">
+      <SourceFilename relativeToVRT="0">/vsizip//home/maciek/nid/ned19_n39x75_w085x00_oh_southwest_2006.zip/ned19_n39x75_w085x00_oh_southwest_2006.img</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="8112" RasterYSize="8112" DataType="Float32" BlockXSize="64" BlockYSize="64" />
+      <SrcRect xOff="0" yOff="0" xSize="8112" ySize="8112" />
+      <DstRect xOff="0" yOff="0" xSize="8112" ySize="8112" />
+      <NODATA>-3.4028234663852886e+38</NODATA>
+    </ComplexSource>
+  </VRTRasterBand>
+</VRTDataset>
